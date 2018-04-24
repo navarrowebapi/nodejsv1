@@ -1,0 +1,21 @@
+{
+  "name": "nodejscrudapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --report spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/navarrowebapi/nodejsv1.git"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "express": "~4.16.3",
+    "mongoose": "*",
+    "request": "~2.85.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
